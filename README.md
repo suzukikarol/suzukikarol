@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi 👋
+
+## :raising_hand: Prazer, Karol Suzuki
+
+## :computer: Atualmente sou desenvolvedora front, atuando com Angular, mas tenho conhecimentos em React Redux ou Hooks tbm!
+
+## :books: A finalidade maior do repositório, é pra fins de estudo, mas fique a vontade pra ver, dar star, e forkar o que você achar legal :laughing:
+
+## :blush: E também faço parte da organizaçõa do Nerdzão/Nerdgilz, uma comunidade de tecnologia de São Paulo. Nos sigam nas redes @onerdzao
+
 
 <!--
 **suzukikarol/suzukikarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
