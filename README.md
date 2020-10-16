@@ -8,8 +8,9 @@
 
 ### :blush: E também faço parte da organizaçõa do Nerdzão, uma comunidade de tecnologia de São Paulo, e o Nerdgirlz, que é uma frente feminina desta comunidade. 
 ### :laughing: Nos sigam nas redes, @onerdzao !
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzukikarol&hide=html&layout=compact&theme=buefy" />
 
-
+<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=suzukikarol&theme=buefy"/>
 <!--
 **suzukikarol/suzukikarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
