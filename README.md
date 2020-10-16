@@ -1,4 +1,4 @@
-<img width="400px" align="left" src="img/capa.png" />
+<img width="400px" align="left" src="https://github.com/suzukikarol/suzukikarol/raw/main/img/capa.png" />
 
 ## 👋 Hi! Prazer, Karol Suzuki
 
