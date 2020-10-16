@@ -1,6 +1,6 @@
-## 👋 Hi 
+<img width="400px" align="left" src="img/capa.png" />
 
-## :raising_hand: Prazer, Karol Suzuki
+## 👋 Hi! Prazer, Karol Suzuki
 
 ### :computer: Atualmente sou desenvolvedora front, atuando com Angular, mas tenho conhecimentos em React Redux ou Hooks tbm!
 
@@ -11,6 +11,7 @@
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzukikarol&hide=html&layout=compact&theme=buefy" />
 
 <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=suzukikarol&theme=buefy"/>
+
 <!--
 **suzukikarol/suzukikarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
