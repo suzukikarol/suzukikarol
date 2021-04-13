@@ -1,5 +1,3 @@
-<img width="400px" align="left" src="https://github.com/suzukikarol/suzukikarol/raw/main/img/capa.png" />
-
 ## 👋 Hi! Prazer, Karol Suzuki
 
 ### :computer: Atualmente sou desenvolvedora front, atuando com Angular, mas tenho conhecimentos em React Redux ou Hooks tbm!
