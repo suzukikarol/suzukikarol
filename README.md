@@ -1,11 +1,9 @@
 ## 👋 Hi! Prazer, Karol Suzuki
 
-### :computer: Atualmente sou desenvolvedora front, atuando com Angular, mas tenho conhecimentos em React Redux ou Hooks tbm!
+### :computer: Desenvolvedora Front End há mais de 5 anos. Experiência com Angular (principal stack), React e Hooks (secundários).
 
 ### :books: A finalidade maior do repositório, é pra fins de estudo, mas fique a vontade pra ver, dar star, e forkar o que você achar legal 
 
-### :blush: E também faço parte da organizaçõa do Nerdzão, uma comunidade de tecnologia de São Paulo, e o Nerdgirlz, que é uma frente feminina desta comunidade. 
-### :laughing: Nos sigam nas redes, @onerdzao !
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzukikarol&hide=html&layout=compact&theme=buefy" />
 
 <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=suzukikarol&theme=buefy"/>
